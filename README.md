@@ -14,3 +14,6 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn
 
 ## Results
 Achieved basic classification accuracy and identified key content trends.
+
+## Future Scope
+Implementing an LLM-based recommendation system using the description column to provide semantic content suggestions.
